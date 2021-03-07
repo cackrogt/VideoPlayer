@@ -1,5 +1,16 @@
 .center{
-    margin: 0 auto;
-    width: 10%;
+    margin-left: 45%;   
+    width:10%;
     
+}
+
+.centerButton{
+    margin-left:40%;
+    width:10%;
+}
+
+.centerIcon{
+    margin-left: 50%;   
+    width:10%;
+
 }
